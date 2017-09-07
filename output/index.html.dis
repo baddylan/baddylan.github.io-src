@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fadedstars Github project page</title>
+  <style>
+  body {
+      font-family: Verdana,sans-serif;
+      font-size: 0.9em;
+      background-color: antiquewhite;
+  }
+  </style>
+</head>
+<body>
+
+<h1>Fadedstars Github project page</h1>
