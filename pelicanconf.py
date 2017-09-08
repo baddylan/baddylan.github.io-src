@@ -41,5 +41,5 @@ DEFAULT_PAGINATION = False
 SLUGIFY_SOURCE = 'title'
 
 # Plugins
-PLUGIN_PATHS = ["plugins", "/Users/patriciaadams/Git/pelican-plugins/pelican-plugins"]
-PLUGINS = ["custom_article_urls"]
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["tag_cloud"]
