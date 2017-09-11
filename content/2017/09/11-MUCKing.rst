@@ -1,4 +1,4 @@
-MUCKing! And how to get started!
+MUCKS! And how to get started!
 ################################
 
 :tags: status, update
@@ -8,8 +8,10 @@ MUCKing! And how to get started!
 Hello everyone! This isn't usually something I'd be putting in the newspaper, but I felt it necessary.
 
 -----------------------
-MUCKing? What is that?
+MUCKS? What is that?
 -----------------------
+
+
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
