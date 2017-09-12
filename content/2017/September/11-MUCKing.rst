@@ -1,32 +1,19 @@
 MUCKS! And how to get started!
 ################################
 
+:date: 2017-09-11 14:30
 :modified: 2017-09-12 13:18
 :tags: status, update
 :category: September 2017
 :authors: Dylan Copeland
 :summary: An explanation of MUCKing, and how to get started with it.
+:status: draft
 
 Hello everyone! This isn't usually something I'd be putting in the newspaper, but I felt it necessary.
 
 -----------------------
-MUCKS? What is that?
+Programs for MUCKS
 -----------------------
-
-
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
 
 +---------------+---------------------+---------------------+
 | Program       | Compatibility       | Recommended to use  |
@@ -36,3 +23,8 @@ MUCKS? What is that?
 +---------------+---------------------+---------------------+
 | Mukluk        | Android             | YES                 |
 +---------------+---------------------+---------------------+
+
+[TinyFugue Setup Guide](https://wiki.fadedstars.xyz/TinyFugue_Setup)
+
+[Mukluk Setup Guide](https://wiki.fadedstars.xyz/Mukluk_Setup)
+
