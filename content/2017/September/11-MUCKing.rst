@@ -1,6 +1,7 @@
 MUCKS! And how to get started!
 ################################
 
+:modified: 2017-09-12 13:18
 :tags: status, update
 :category: September 2017
 :authors: Dylan Copeland
@@ -32,4 +33,6 @@ MUCKS? What is that?
 |               |                     |                     |
 +===============+=====================+=====================+
 | TinyFugue     | Mac, Linux, Windows | YES                 |
++---------------+---------------------+---------------------+
+| Mukluk        | Android             | YES                 |
 +---------------+---------------------+---------------------+
