@@ -2,6 +2,7 @@ MUCKS! And how to get started!
 ################################
 
 :tags: status, update
+:category: September 2017
 :authors: Dylan Copeland
 :summary: An explanation of MUCKing, and how to get started with it.
 
