@@ -50,5 +50,5 @@ DEFAULT_PAGINATION = False
 SLUGIFY_SOURCE = 'title'
 
 # Plugins
-PLUGIN_PATHS = ["plugins/pelican-plugins"]
+PLUGIN_PATHS = ["~/Git/baddylan.github.io-src/plugins/pelican-plugins", "plugins"]
 PLUGINS = ["tag_cloud", "custom_article_urls"]
