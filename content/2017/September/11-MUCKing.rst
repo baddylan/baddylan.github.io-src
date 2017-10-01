@@ -7,7 +7,7 @@ MUCKS! And how to get started!
 :category: September 2017
 :authors: Dylan Copeland
 :summary: An explanation of MUCKing, and how to get started with it.
-:status: draft
+:status: published
 
 Hello everyone! This isn't usually something I'd be putting in the newspaper, but I felt it necessary.
 
