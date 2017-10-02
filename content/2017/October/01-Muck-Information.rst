@@ -1,7 +1,7 @@
 MUCK Information
 ##################
 
-:date: 2017-10-11 11:39
+:date: 2017-10-01 11:39
 :tags: information, muck
 :category: October 2017
 :authors: Dylan Copeland
