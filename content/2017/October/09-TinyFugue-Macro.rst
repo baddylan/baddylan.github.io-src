@@ -32,17 +32,21 @@ domain if you wish.)
 
 CODE BEGINS HERE * INSERT EVERYTHING BELOW THIS LINE INTO .TFRC FOR BEST RESULTS
 
-; Macro for puppet separation
-/def puppet = \
-/let parent %; \
-/test parent := fg_world() %; \
-/addworld %{1} %; \
-/def -q -agA -m2 -t"%1>(.+)" pt_%{1} = /echo -w%1 >%%P1 %; \
-/def -w%1 -hSEND sender_%1 = /send -w%parent %2 %%* %; \
-/connect %1
+::
 
-; Kill a puppet
-/def kpuppet = \
-/def sender_%1= %; \
-/def pt_%1= %; \
-/dc %1
+        ; Macro for puppet separation
+        /def puppet = \
+        /let parent %; \
+        /test parent := fg_world() %; \
+        /addworld %{1} %; \
+        /def -q -agA -m2 -t"%1>(.+)" pt_%{1} = /echo -w%1 >%%P1 %; \
+        /def -w%1 -hSEND sender_%1 = /send -w%parent %2 %%* %; \
+        /connect %1
+        
+        ; Kill a puppet
+        /def kpuppet = \
+        /def sender_%1= %; \
+        /def pt_%1= %; \
+        /dc %1
+
+Testing.
